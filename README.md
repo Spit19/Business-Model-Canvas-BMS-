@@ -1,4 +1,4 @@
-# AI Business Architect Platform
+# Smart Decisions System
 
 Este repositório contém a documentação arquitetural de uma plataforma de
 análise inteligente de modelos de negócio baseada no Business Model Canvas (BMC),
@@ -16,10 +16,12 @@ A solução utiliza:
 - RAG (Retrieval-Augmented Generation)
 
 Os diagramas estão disponíveis na pasta `docs/diagramas`.
+Modelagem de banco de dados na pasta `docs/DB`.
+APIs feitos na linguagem YAML na pasta `docs/System Prompt.txt `.
 
 ## 📄 Documento de Arquitetura de Software (DAS)
 O DAS está disponível em:
-- `docs/DAS.md`
+- `docs/DAS.pdf`
 
 ## 🛠️ Serviços e a Stack tecnológica
 - API Gateway (Node.js)
