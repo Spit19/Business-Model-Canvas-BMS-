@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0" version="29.3.2">
+  <diagram name="Página-1" id="wK8kYtDZ7-5nFAkPDxys">
+    <mxGraphModel dx="830" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s_3kYIbqDjD998lnX0Hq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="370" x="30" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s_3kYIbqDjD998lnX0Hq-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&amp;nbsp;ID:&amp;nbsp; &quot;uuid&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; text:&amp;nbsp; SaaS Companies tend to reduce churn, offering assist onboarding&lt;/div&gt;&lt;div&gt;&amp;nbsp; embedding: [0.021, -0.334, 0.876, ...]&lt;/div&gt;&lt;div&gt;&amp;nbsp; metadata: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; sector:&amp;nbsp; SaaS,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; theme: Customer Retention,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; source: Harvard Business Review,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; year: 2023,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; language: pt-BR&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="350" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s_3kYIbqDjD998lnX0Hq-7" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="" vertex="1">
+          <mxGeometry height="200" width="230" x="420" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="s_3kYIbqDjD998lnX0Hq-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NoSQL para vetorização de documento de boas práticas de negócio.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Os Chunks são recuperados e armazenados dessa forma:&lt;br&gt;&lt;br&gt;###Boas Práticas do Setor&lt;/div&gt;&lt;div&gt;[DOC1]&lt;/div&gt;&lt;div&gt;[DOC2]&lt;/div&gt;&lt;div&gt;[DOC3]&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="230" x="420" y="-120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
